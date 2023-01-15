@@ -27,6 +27,9 @@
   None
 
   ## License
-This project is licensed under the MIT license
+This project is licensed under the MIT license!
+
+[JATE screenshot](https://user-images.githubusercontent.com/110742147/212572463-058a5c5b-2fd8-4cf7-ba09-f059d1ea8be9.PNG)
+
    
 https://radiant-dusk-60044.herokuapp.com/
